@@ -1,1 +1,1 @@
-# steelheartbot
+# SteelHeartBot
